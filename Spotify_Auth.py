@@ -8,8 +8,8 @@ app = Flask(__name__)
 
 app.secret_key = 'Franko@123'
 
-SPOTIPY_CLIENT_ID = 'a3ff15bca47e4b1597a1000440cac756'
-SPOTIPY_CLIENT_SECRET = '721d8e1b6edf4944a23f6426e2d31251'
+SPOTIPY_CLIENT_ID = 'a3ff15bca47e4b1597a1000440cxx777'
+SPOTIPY_CLIENT_SECRET = '721d8e1b6edf4944a23f6426e2d31221'
 SPOTIPY_REDIRECT_URI = 'http://localhost:8888/callback'
 
 scope = "user-library-read playlist-read-private"
